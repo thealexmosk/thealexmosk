@@ -234,8 +234,8 @@ body {
   transform: translateX(-100vh);
   -webkit-animation: showText 1s ease-in-out forwards;
   animation: showText 1s ease-in-out forwards;
-  -webkit-animation-delay: .7s;
-  animation-delay: .7s; }
+  -webkit-animation-delay: .6s;
+  animation-delay: .6s; }
 
 .intro:not(.active) .photo__asset {
   -webkit-animation: hidePhoto 0.5s ease-in-out forwards;
